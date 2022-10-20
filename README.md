@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Data Scientist 
+I am a molecular biologist equipped with Data Science skills 
 <!--
 **ShiraliObul/ShiraliObul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
