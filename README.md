@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a molecular biologist equipped with Data Science skills 
+I am a molecular biologist with 8 years of research experience in molecular quantitative biology, bio-statistics, and cancer research. I became a Data Science enthusiast and developed programming skills in Python, R and machine learning while working as a full-time researcher. I am pursuing Data Science related positions in the pharmaceutical and biotech industries because I'm passionate to improve human health through effective Biomedical data science.
 <!--
 **ShiraliObul/ShiraliObul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
